@@ -1,5 +1,4 @@
 import { Container } from "@mantine/core";
-import React, { useCallback, useState } from "react";
 import { PieChart, Pie, Cell } from "recharts";
 import { data } from "./data";
 
