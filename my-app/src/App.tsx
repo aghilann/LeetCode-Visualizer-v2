@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import { Container, Grid } from "@mantine/core";
-import GridCards from "./Components/CardSection/GridCards";
 import { BarGraph } from "./Components/Graph/BarGraph";
 import PieGraph from "./Components/PieGraph/PieGraph";
 
