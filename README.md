@@ -1,7 +1,6 @@
 ﻿# LeetCode-Visualizer-v2
 # Getting Started with Create React App
 
-![Alt Text](https://giphy.com/gifs/vcuAF5GGipa2LSvEhZ.gif)
 
 ![grab-landing-page](https://github.com/aghilann/LeetCode-Visualizer-v2/blob/main/my-app/Static/REAL.gif)
 
