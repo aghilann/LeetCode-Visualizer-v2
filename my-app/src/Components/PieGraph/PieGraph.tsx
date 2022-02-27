@@ -35,13 +35,13 @@ export default function PieGraph() {
     <Container
       fluid={false}
       padding="xs"
-      className="bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400 rounded-lg my-10 grid place-items-center"
+      className="bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400 rounded-lg my-10 grid"
     >
-      <PieChart width={500} height={400}>
+      <PieChart width={500} height={400} className="object-center">
         <Pie
           data={data}
-          //   cx={170}
-          //   cy={200}
+          cx={200}
+          y={200}
           labelLine={false}
           label={renderCustomizedLabel}
           outerRadius={150}

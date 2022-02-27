@@ -9,7 +9,7 @@ import {
   Legend,
 } from "recharts";
 import { data } from "./data";
-console.log(data[0].total);
+
 export const Chart: React.FC = () => {
   return (
     <div className="grid place-items-center">
@@ -26,14 +26,14 @@ export const Chart: React.FC = () => {
         className="grid place-items-center"
       >
         <CartesianGrid stroke="#f5f5f5" />
-        <XAxis dataKey="name" scale="band" />
+        <XAxis dataKey="name" />
         <YAxis />
         <Tooltip />
         <Legend />
         <Bar dataKey="Hard" stackId="a" fill="#D1495B" />
         <Bar dataKey="Medium" stackId="a" fill="#F9E784" />
         <Bar dataKey="Easy" stackId="a" fill="#7BE0AD" />
-        <Line type="monotone" dataKey="total" stroke="#ff7300" />
+        <Line type="monotone" dataKey="Total" stroke="#ff7300" />
       </ComposedChart>
     </div>
   );

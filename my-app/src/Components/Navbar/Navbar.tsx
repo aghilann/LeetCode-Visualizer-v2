@@ -6,9 +6,9 @@ import { BellIcon, MenuIcon, XIcon } from "@heroicons/react/outline";
 import { SignUpModal } from "./SignUpModal";
 
 const navigation = [
-  { name: "Team", href: "#", current: false },
-  { name: "Projects", href: "#", current: false },
-  { name: "Calendar", href: "#", current: false },
+  { name: "View Progress", href: "#", current: false },
+  { name: "Go to LeetCode", href: "#", current: false },
+  { name: "Contribute", href: "#", current: false },
 ];
 
 function classNames(...classes: string[]) {
