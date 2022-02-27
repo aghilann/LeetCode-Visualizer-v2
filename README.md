@@ -3,7 +3,7 @@
 
 ![Alt Text](https://giphy.com/gifs/vcuAF5GGipa2LSvEhZ.gif)
 
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![grab-landing-page](https://github.com/aghilann/LeetCode-Visualizer-v2/blob/main/my-app/Static/2022-02-26_19-24-54_AdobeCreativeCloudExpress.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
