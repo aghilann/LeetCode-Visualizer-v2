@@ -1,6 +1,8 @@
 ﻿# LeetCode-Visualizer-v2
 # Getting Started with Create React App
 
+![Alt Text](https://giphy.com/gifs/vcuAF5GGipa2LSvEhZ.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
